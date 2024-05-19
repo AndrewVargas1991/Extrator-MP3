@@ -1,0 +1,9 @@
+Instruções de uso do programa Extrator MP3
+
+OBS: Caso você não tenha instalado a biblioteca MoviePy, abra o Processador de comandos (CMD) e digite o seguinte comando:
+pip install moviepy
+
+1- Abra o programa "Extrator MP3.py" com o interpretador do Python;
+OBS: Caso você não tenha o IDLE (interpretador do Python), baixe-o no site https://www.python.org
+
+2- Selecione arrastando o arquivo de video para dentro do console (tela preta) e aperte ENTER.
